@@ -17,8 +17,8 @@ Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children
 > Json.
 #
 **MODEL**
-> LSTM (Long Short Term Memory).<br>
-The Model (LSTM) is imported in this trained model. Because, After the Model was trained in [Training Model](https://github.com/PersonXXIII/Chatbot-Training-Model). The extracted/saved model is used at a certain accuracy
+> LSTM (Long Short Term Memory).<br><br>
+**NOTE:** The Model (LSTM) is imported in this trained model. Because, After the Model was trained in [Training Model](https://github.com/PersonXXIII/Chatbot-Training-Model). The extracted/saved model is used at a certain accuracy. Which doesn't requires as much coputational power as in training.
 #
 **DATASET<br>**
 Created in json format.<br>
