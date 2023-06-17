@@ -9,11 +9,11 @@ Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children
 > Python (3.11).
 #
 **LIBRARIES**
-> Tensorflow.
-> Keras.
-> Scikit-Learn.
-> Numpy.
-> String.
+> Tensorflow.<br>
+> Keras.<br>
+> Scikit-Learn.<br>
+> Numpy.<br>
+> String.<br>
 > Json.
 #
 **MODEL**
