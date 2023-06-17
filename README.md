@@ -24,4 +24,3 @@ Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children
 Created in json format.<br>
 **Intents:** 2000+<br>
 **Queries:** 8500+
-```
